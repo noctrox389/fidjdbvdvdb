@@ -1,0 +1,3 @@
+Flash Event
+
+Value 1: Tiempo de Flash
